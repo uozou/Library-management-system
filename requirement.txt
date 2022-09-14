@@ -1,0 +1,5 @@
+python==3.10.4
+django==4.1.1
+mysql
+mysql-connector-python==8.0.30
+djangorestframework==3.13.1
